@@ -1102,6 +1102,8 @@ button, input, select, textarea {
 
 .logo-rodape img {
     height: 44px;
+    width: auto;
+    object-fit: contain;
     margin-bottom: 18px;
 }
 
